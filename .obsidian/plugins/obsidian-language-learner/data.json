@@ -1,0 +1,13 @@
+{
+  "use_server": true,
+  "word_database": "Atlases/MOCs/Mywords.md",
+  "review_database": "Atlases/MOCs/MyEnglishReps.md",
+  "port": 8086,
+  "last_sync": "2022-07-28T11:38:50Z",
+  "db_name": "WordDB",
+  "review_prons": "0",
+  "default_paragraphs": "4",
+  "col_delimiter": ",",
+  "use_machine_trans": true,
+  "auto_refresh_db": true
+}
