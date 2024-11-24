@@ -1,4 +1,16 @@
 [
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "recent-files-obsidian",
+  "novel-word-count",
+  "file-explorer-note-count",
+  "local-gpt",
+  "dataview",
+  "table-editor-obsidian",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "obsidian-git"
 ]
