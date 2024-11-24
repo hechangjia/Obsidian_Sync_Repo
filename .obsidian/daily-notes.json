@@ -1,0 +1,6 @@
+{
+  "folder": "030_date_note",
+  "template": "040Template/日记模板",
+  "autorun": true,
+  "format": "DDDD-WW-YYYY-MM-DD-dddd"
+}

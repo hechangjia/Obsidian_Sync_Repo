@@ -237,8 +237,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -344,12 +343,12 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,6 +380,8 @@
   },
   "active": "12dcc989ac0e9b69",
   "lastOpenFiles": [
+    "图片/Pasted image 20240327145605.png",
+    "010_File-Box/Demo.md",
     "snippets/超长文件名换行.css",
     "snippets/视窗风格的callout.css",
     "snippets/自定义链接前置图标.css",
@@ -391,9 +392,7 @@
     "snippets/添加网格背景.css",
     "snippets/编辑模式代码块形式行号.css",
     "snippets/笔记内容居左或居中切换.css",
-    "snippets/突出设置面板.css",
     "050_Charlie的数学笔记/数学专业课/复变函数与积分变换/解析函数的概念/解析函数的定义.md",
-    "010_File-Box/Demo.md",
     "math/通过逼近的方法证明函数是下凸的.md",
     "math/an epsilon of room.md",
     "对满足Bernoulli分布的数据进行参数估计.md",

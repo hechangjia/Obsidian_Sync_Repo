@@ -16564,19 +16564,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 32,
-      "nonWhitespaceCharacterCount": 28,
-      "readingTimeInMinutes": 0.03509433962264151,
+      "pageCount": 0.07,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 87,
+      "readingTimeInMinutes": 0.061509433962264146,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732447181357,
-      "modifiedDate": 1732447442148,
-      "sizeInBytes": 52
+      "modifiedDate": 1732456177763,
+      "sizeInBytes": 135
     }
   }
 }

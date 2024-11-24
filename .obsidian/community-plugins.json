@@ -34,5 +34,7 @@
   "obsidian-day-planner",
   "obsidian-linter",
   "editing-toolbar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-list-callouts",
+  "callout-manager"
 ]

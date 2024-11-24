@@ -1,0 +1,10 @@
+{
+  "pinned": [
+    "markdown:add-metadata-property",
+    "editor:save-file",
+    "theme:use-dark",
+    "theme:use-light",
+    "app:open-vault",
+    "markdown:add-alias"
+  ]
+}
