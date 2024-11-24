@@ -10,5 +10,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "010_File-Box",
-  "attachmentFolderPath": "020_Attachment"
+  "attachmentFolderPath": "020_Attachment",
+  "strictLineBreaks": true
 }
