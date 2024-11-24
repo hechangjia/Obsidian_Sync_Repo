@@ -15342,17 +15342,17 @@
     "030_date_note/2024_date_diary/2024-11-02.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 56024,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 186.74666666666667,
+      "characterCount": 67032,
+      "nonWhitespaceCharacterCount": 63593,
+      "readingTimeInMinutes": 112.5091320754717,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1732446383484,
       "modifiedDate": 1730708848474,
       "sizeInBytes": 187498
@@ -16559,6 +16559,24 @@
       "createdDate": 1732446446674,
       "modifiedDate": 1730798190884,
       "sizeInBytes": 837
+    },
+    "010_File-Box/Demo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 19,
+      "nonWhitespaceCharacterCount": 19,
+      "readingTimeInMinutes": 0.02109433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1732447181357,
+      "modifiedDate": 1732447191421,
+      "sizeInBytes": 25
     }
   }
 }
